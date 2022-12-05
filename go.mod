@@ -1,4 +1,4 @@
-module github.com/rinormaloku/gloo-processor
+module github.com/rinormaloku/otel-sample-processor
 
 go 1.19
 

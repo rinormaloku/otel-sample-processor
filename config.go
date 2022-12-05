@@ -1,4 +1,4 @@
-package gloo_processor
+package otel_sample_processor
 
 import (
 	"go.opentelemetry.io/collector/config"
