@@ -1,4 +1,4 @@
-package otel_sample_processor
+package otelsampleprocessor
 
 import (
 	"context"
